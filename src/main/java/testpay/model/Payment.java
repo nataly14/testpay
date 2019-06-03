@@ -3,7 +3,6 @@ package testpay.model;
 import java.time.Instant;
 import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
-import java.util.Random;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
